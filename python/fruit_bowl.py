@@ -20,6 +20,9 @@ Sample Output
 
 Explanation 
 If you have 26 pieces of fruit, you have 13 apples, which makes 4 pies, and leaves one apple left over.
+
+
+SoloLearn (2023) Fruit Bowl: https://www.sololearn.com
 """
 
 
