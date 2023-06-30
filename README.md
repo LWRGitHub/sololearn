@@ -3,7 +3,8 @@ Here you will find my solutions to problems found the on the [SoloLearn App](htt
 
 ***SoloLearn?***
 
-"**Learning on the go:**  Learn on the web or on the go. Sololearn is always ready for you and you'll never lose your place." (SoloLearn, 2023) [SoloLearn.com](https://www.sololearn.com)
+**Learning on the go:**  Learn on the web or on the go. Sololearn is always ready for you and you'll never lose your place." (SoloLearn, 2023) [SoloLearn.com](https://www.sololearn.com)
 
 ## Tech Used
 - Python
+- SQL
