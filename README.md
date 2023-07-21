@@ -8,3 +8,4 @@ Here you will find my solutions to problems found the on the [SoloLearn App](htt
 ## Tech Used
 - Python
 - SQL
+- Go
